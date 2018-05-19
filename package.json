@@ -1,0 +1,27 @@
+{
+  "name": "formidable-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rgstaub/formidable-upload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rgstaub/formidable-upload/issues"
+  },
+  "homepage": "https://github.com/Rgstaub/formidable-upload#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-formidable": "^1.0.0",
+    "formidable": "^1.2.1",
+    "mongoose": "^5.1.1",
+    "path": "^0.12.7"
+  }
+}
